@@ -4,7 +4,7 @@
 
 ## What you'll build, in plain language
 
-[svg](https://github.com/krishlj/cgep-labs/blob/main/guides/02_03_first_compliant_resource.md#what-youll-build-in-plain-language)
+[View the full guide →](https://github.com/krishlj/cgep-labs/blob/main/guides/02_03_first_compliant_resource.md#what-youll-build-in-plain-language)
 
 You'll use Terraform to create an Amazon S3 bucket (cloud storage) that is locked down to a security baseline, and a second bucket that records who accessed the first one. Then you'll capture a file that proves the baseline is in place. That proof file is the thing an auditor would accept instead of a screenshot, because it comes straight from the system and can't be faked by cropping a browser window.
 
@@ -22,7 +22,8 @@ You don't need to memorize the control IDs. You need to be able to point at a li
 
 ## Learning objectives
 
-[svg](https://github.com/krishlj/cgep-labs/blob/main/guides/02_03_first_compliant_resource.md#learning-objectives)
+[View the learning objectives →](https://github.com/krishlj/cgep-labs/blob/main/guides/02_03_first_compliant_resource.md#learning-objectives)
+
 
 - Express NIST 800-53 controls as Terraform resources, and cite each control where it's enforced.
 - Capture pre- and post-deploy compliance evidence as JSON instead of screenshots.
